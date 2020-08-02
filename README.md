@@ -1,4 +1,4 @@
-### Software Developer & Writer
+### Yakko Majuri: Software Developer & Technical Writer
 
 I write code and write about writing code. 'Top Writer in Technology' on Medium.
 
