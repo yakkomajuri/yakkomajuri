@@ -12,9 +12,13 @@ Check out some of my tutorials:
 * [Sick of Using Javascript for the Web? Use Browser Python Instead](https://medium.com/swlh/sick-of-javascript-just-use-browser-python-4b9679efe08b?source=friends_link&sk=40e664d45bfea34d35189c32cd5d0a51)
 * [Build Your Own Adblocker In Under 100 Lines Of Code](https://levelup.gitconnected.com/building-your-own-adblocker-in-literally-10-minutes-1eec093b04cd?source=friends_link&sk=cd49e44cfa05b257ad36aeb4065dc9bb)
 
+<!--
+
 Or my latest research paper:
 
 **Overcoming Economic Stagnation in Low-Income Communities with Programmable Money**
 
 * [Original Version](https://github.com/yakkomajuri/yakkomajuri/blob/master/localcurrency.pdf) (Presented at the European Central Bank)
 * [Publication on the Journal of Risk Finance](https://www.emerald.com/insight/content/doi/10.1108/JRF-08-2019-0145/full/html) (Shortened Version) 
+
+-->
