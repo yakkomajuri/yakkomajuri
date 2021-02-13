@@ -2,7 +2,7 @@
 
 I write code and write about writing code. 
 
-Technical Writer and Developer at [PostHog](https://github.com/PostHog/posthog) 🦔 and 'Top Writer in Technology' on Medium. 
+Developer Experience at [PostHog](https://github.com/PostHog/posthog) 🦔 and 'Top Writer in Technology' on Medium. 
 
 Check out some of my tutorials:
 
