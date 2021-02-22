@@ -2,7 +2,7 @@
 
 Most often writing code, sometimes writing articles.
 
-Developer Experience at [PostHog](https://github.com/PostHog/posthog) 🦔 and 'Top Writer in Technology' on Medium. 
+Developer Experience at [PostHog](https://github.com/PostHog/posthog) and 'Top Writer in Technology' on Medium. 
 
 #### Latest Article
 
