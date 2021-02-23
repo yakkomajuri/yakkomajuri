@@ -1,15 +1,15 @@
-### Yakko Majuri: DX Engineer
+# Yakko Majuri: DX Engineer
 
 Most often writing code, sometimes writing articles.
 
 Developer Experience at [PostHog](https://github.com/PostHog/posthog) and 'Top Writer in Technology' on Medium. 
 
-#### Latest Article
+## Latest Article
 
-<h4>
+<h3>
     <img src='https://github.com/yakkomajuri/react-from-scratch/raw/main/readme-assets/react.svg' width=15 style='display: inline-block' /><a href='https://github.com/yakkomajuri/react-from-scratch#readme'>
  Building a Modern React App from Scratch in 2021</a>
-</h4>
+</h3>
 
 
 
