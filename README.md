@@ -4,10 +4,7 @@ Developer Experience at [PostHog](https://github.com/PostHog/posthog) and 'Top W
 
 ## Latest Article
 
-<h3>
-    <img src='https://github.com/yakkomajuri/react-from-scratch/raw/main/readme-assets/react.svg' width=15 style='display: inline-block' /><a href='https://github.com/yakkomajuri/react-from-scratch#readme'>
- Building a Modern React App from Scratch in 2021</a>
-</h3>
+### [Convert all your Medium posts into a Gatsby blog in 5 min](https://github.com/yakkomajuri/medium-to-blog)
 
 
 
