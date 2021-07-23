@@ -1,11 +1,10 @@
-# Yakko Majuri: DX Engineer
+# Yakko Majuri: Software Engineer
 
-Developer Experience at [PostHog](https://github.com/PostHog/posthog) and 'Top Writer in Technology' on Medium. 
+Software Engineer at [PostHog](https://github.com/PostHog/posthog) and 'Top Writer in Technology' on Medium. 
 
 ## Latest Article
 
-### [Convert all your Medium posts into a Gatsby blog in 5 min](https://github.com/yakkomajuri/medium-to-blog)
-
+### [The Case For Learning Multiple Programming Languages](https://yakkomajuri.medium.com/the-case-for-learning-multiple-programming-languages-2ed22d74c2b7?sk=b411291a17a00ec5254fca9d347dd50a)
 
 
 <!--
