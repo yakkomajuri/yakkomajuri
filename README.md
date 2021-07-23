@@ -1,4 +1,4 @@
-# Yakko Majuri: Software Engineer
+# Yakko Majuri
 
 Software Engineer at [PostHog](https://github.com/PostHog/posthog) and 'Top Writer in Technology' on Medium. 
 
