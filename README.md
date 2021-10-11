@@ -2,12 +2,13 @@
 
 Software Engineer at [PostHog](https://github.com/PostHog/posthog) and 'Top Writer in Technology' on Medium. 
 
+I write structured technical content [here](https://yakkomajuri.medium.com/) and random thoughts [here](https://yakkomajuri.github.io/).
+
+<!--
+
 ## Latest Article
 
 ### [The Case For Learning Multiple Programming Languages](https://yakkomajuri.medium.com/the-case-for-learning-multiple-programming-languages-2ed22d74c2b7?sk=b411291a17a00ec5254fca9d347dd50a)
-
-
-<!--
 
 * [A Step-By-Step Guide To Building a Trading Bot In Any Programming Language](https://medium.com/@yakko.majuri/a-step-by-step-guide-to-building-a-trading-bot-in-any-programming-language-d202ffe91569?source=friends_link&sk=3e9d065618093a1ee97bd438ca1cfe6e)
 * [Git Deep Dive: Learn The Internals Of Git By Hacking A Website](https://levelup.gitconnected.com/learning-the-internals-of-git-by-hacking-websites-c70c59303b12?source=friends_link&sk=ae9b4795572ca43136d0e80ea3938f4c)
