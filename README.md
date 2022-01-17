@@ -4,6 +4,8 @@ Software Engineer at [PostHog](https://github.com/PostHog/posthog) and 'Top Writ
 
 I write structured technical content [here](https://yakkomajuri.medium.com/) and random thoughts [here](https://yakkomajuri.github.io/).
 
+Latest blog post: _[Deep diving into the thread pool: a debugging story](https://yakkomajuri.github.io/blog/thread-pool)_
+
 <!--
 
 ## Latest Article
