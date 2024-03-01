@@ -1,30 +1,11 @@
 # Yakko Majuri
 
-Software Engineer at [PostHog](https://github.com/PostHog/posthog) and 'Top Writer in Technology' on Medium. 
+writing on [memoirs & rambles](https://memoirsandrambles.substack.com/) and [yakkomajuri.com](https://yakkomajuri.com/).
 
-I write structured technical content [here](https://yakkomajuri.medium.com/) and random thoughts [here](https://yakkomajuri.github.io/).
+fullstack engineer with a focus on backend/data engineering. 
 
-Latest blog post: _[Deep diving into the thread pool: a debugging story](https://yakkomajuri.github.io/blog/thread-pool?utm_source=github)_
+ex [@posthog](https://posthog.com) engineer & consultant [@sanofi](https://www.sanofi.com/en) and [@xp educação](https://www.xpeducacao.com.br/).
 
-<!--
+creator of [@housewatch](https://github.com/PostHog/HouseWatch)
 
-## Latest Article
-
-### [The Case For Learning Multiple Programming Languages](https://yakkomajuri.medium.com/the-case-for-learning-multiple-programming-languages-2ed22d74c2b7?sk=b411291a17a00ec5254fca9d347dd50a)
-
-* [A Step-By-Step Guide To Building a Trading Bot In Any Programming Language](https://medium.com/@yakko.majuri/a-step-by-step-guide-to-building-a-trading-bot-in-any-programming-language-d202ffe91569?source=friends_link&sk=3e9d065618093a1ee97bd438ca1cfe6e)
-* [Git Deep Dive: Learn The Internals Of Git By Hacking A Website](https://levelup.gitconnected.com/learning-the-internals-of-git-by-hacking-websites-c70c59303b12?source=friends_link&sk=ae9b4795572ca43136d0e80ea3938f4c)
-* [A Python Substitute? I Tried Out the Best Programming Language You’ve Never Heard Of](https://medium.com/better-programming/a-python-substitute-i-tried-out-the-best-programming-language-youve-never-heard-of-9e29cd1893c0?source=friends_link&sk=61b12cfd6456f992013ba61e710efc72)
-* [Sick of Using Javascript for the Web? Use Browser Python Instead](https://medium.com/swlh/sick-of-javascript-just-use-browser-python-4b9679efe08b?source=friends_link&sk=40e664d45bfea34d35189c32cd5d0a51)
-* [Build Your Own Adblocker In Under 100 Lines Of Code](https://levelup.gitconnected.com/building-your-own-adblocker-in-literally-10-minutes-1eec093b04cd?source=friends_link&sk=cd49e44cfa05b257ad36aeb4065dc9bb)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yakkomajuri&show_icons=true&count_private=true&theme=dracula)
-
-Or my latest research paper:
-
-**Overcoming Economic Stagnation in Low-Income Communities with Programmable Money**
-
-* [Original Version](https://github.com/yakkomajuri/yakkomajuri/blob/master/localcurrency.pdf) (Presented at the European Central Bank)
-* [Publication on the Journal of Risk Finance](https://www.emerald.com/insight/content/doi/10.1108/JRF-08-2019-0145/full/html) (Shortened Version) 
-
--->
+contact: yakko [dot] majuri [at] protonmail
