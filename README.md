@@ -4,6 +4,8 @@ writing on [memoirs & rambles](https://memoirsandrambles.substack.com/) and [yak
 
 fullstack engineer with a focus on backend/data engineering
 
+leading data infra [@doublepoint](https://www.doublepoint.com/)
+
 ex [@posthog](https://posthog.com) engineer & consultant [@sanofi](https://www.sanofi.com/en) and [@xp educação](https://www.xpeducacao.com.br/)
 
 creator of [@housewatch](https://github.com/PostHog/HouseWatch) & [@recess](https://github.com/yakkomajuri/recess)
