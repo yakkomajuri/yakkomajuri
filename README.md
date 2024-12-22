@@ -4,7 +4,7 @@ writing on [memoirs & rambles](https://memoirsandrambles.substack.com/) and [yak
 
 fullstack engineer with a focus on backend/data engineering
 
-leading data infra [@doublepoint](https://www.doublepoint.com/)
+leading data infra [@doublepoint](https://www.doublepoint.com/) - and writing code over on gitlab
 
 ex [@posthog](https://posthog.com) engineer & consultant [@sanofi](https://www.sanofi.com/en) and [@xp educação](https://www.xpeducacao.com.br/)
 
