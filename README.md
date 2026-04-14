@@ -1,15 +1,21 @@
-# Yakko Majuri
+# 👋 Hey, I'm Yakko
 
-building [skald](https://www.useskald.com/)
+I'm the founder of [Skald Labs](https://skaldlabs.io) and an avid contributor to open source.
 
-writing on [memoirs & rambles](https://memoirsandrambles.substack.com/) and [yakkomajuri.com](https://yakkomajuri.com/)
+Formerly, I was the 6th employee at [PostHog](https://posthog.com) and led infra at [Doublepoint](https://www.doublepoint.com/) (acquired by Oura). 
 
-fullstack engineer with a focus on backend/data engineering
+Among other consultancy positions, I've had a longer stints working for [Sanofi](https://www.sanofi.com/en) and [XP Educação](https://www.xpeducacao.com.br).
 
-- ex [@posthog](https://posthog.com) engineer
-- ex infra lead [@doublepoint](https://www.doublepoint.com/) (where we used gitlab...)
-- former consultant [@sanofi](https://www.sanofi.com/en) and [@xp educação](https://www.xpeducacao.com.br/)
+You can read my writing at [yakko.dev](https://yakko.dev).
 
-creator of [@housewatch](https://github.com/PostHog/HouseWatch) & [@recess](https://github.com/yakkomajuri/recess)
+## ❤️ Open source projects
 
-contact: yakko [dot] majuri [at] protonmail
+* **[seams](https://github.com/yakkomajuri/seams)**: Run `seams .` from any directory and get a beautiful rich Markdown editor in your browser for your docs or blog.
+* **[teeny](https://github.com/yakkomajuri/teeny)**: A hand-coded static site generator in under 400 lines of code. Opinionated, simple, and powerful, with plugins for extensibility.
+* **[skald](https://github.com/skaldlabs/skald)**: Plug-and-play context layer API platform.
+* **[HouseWatch](https://github.com/PostHog/HouseWatch)**: A tool for monitoring and managing ClickHouse clusters built when I used to manage PostHog's cluster.
+
+## 📨 Contact me
+
+I'm trying to have a presence on [X](https://x.com/yakkomajuri) but you can also reach me on `yakko [dot] majuri [at] protonmail [dot] com`.
+
