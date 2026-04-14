@@ -17,5 +17,5 @@ You can read my writing at [yakko.dev](https://yakko.dev).
 
 ## 📨 Contact me
 
-I'm trying to have a presence on [X](https://x.com/yakkomajuri) but you can also reach me on `yakko [dot] majuri [at] protonmail [dot] com`.
+I'm trying (and failing) to have a presence on [X](https://x.com/yakkomajuri) but you can always reach me on `yakko [dot] majuri [at] protonmail [dot] com`.
 
