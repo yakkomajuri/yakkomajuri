@@ -10,7 +10,7 @@ You can read my writing at [yakko.dev](https://yakko.dev).
 
 ## ❤️ Open source projects
 
-* **[AgentPort]**: A secure gateway to connect your agents to any service. Connect your entire stack with granular permissioning and full call logs.
+* **[AgentPort](https://github.com/yakkomajuri/agentport)**: A secure gateway to connect your agents to any service. Connect your entire stack with granular permissioning and full call logs.
 * **[getablog.org](https://getablog.org)**: A website built to encourage people to start writing blogs. Hosts resources to help you get started.
 * **[seams](https://github.com/yakkomajuri/seams)**: Run `seams .` from any directory and get a beautiful rich Markdown editor in your browser for your docs or blog.
 * **[teeny](https://github.com/yakkomajuri/teeny)**: A hand-coded static site generator in under 400 lines of code. Opinionated, simple, and powerful, with plugins for extensibility.
