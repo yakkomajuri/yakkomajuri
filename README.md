@@ -4,7 +4,7 @@ I'm the founder of [Skald Labs](https://skaldlabs.io) and an avid contributor to
 
 Formerly, I was the 6th employee at [PostHog](https://posthog.com) and led infra at [Doublepoint](https://www.doublepoint.com/) (acquired by Oura). 
 
-Among other consultancy positions, I've had a longer stints working for [Sanofi](https://www.sanofi.com/en) and [XP Educação](https://www.xpeducacao.com.br).
+Among other consultancy positions, I've had longer stints working for [Sanofi](https://www.sanofi.com/en) and [XP Educação](https://www.xpeducacao.com.br).
 
 You can read my writing at [yakko.dev](https://yakko.dev).
 
